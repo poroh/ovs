@@ -95,6 +95,13 @@ Each Open vSwitch userspace program is accompanied by a manpage.  Many of the
 manpages are customized to your configuration as part of the build process, so
 we recommend building Open vSwitch before reading the manpages.
 
+Contributing
+------------
+
+To learn how to contribute to the project read
+`Contributing page <Documentation/internals/contributing/index.rst>`__.
+
+
 License
 -------
 
